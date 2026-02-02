@@ -1,0 +1,247 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 201,
+        "username": "john_travels",
+        "profile_pic": "src/assets/profiledp1.jpg"
+      },
+      "image": "src/assets/mountaintrip.jpg",
+      "caption": "Exploring the mountains 🏔",
+      "likes": 340,
+      "comments": [
+        {
+          "user": "nature_fan",
+          "comment": "Absolutely beautiful!"
+        },
+        {
+          "user": "hiker_life",
+          "comment": "Which place is this?"
+        }
+      ],
+      "timestamp": "2025-11-18T10:15:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 202,
+        "username": "jane_doe",
+        "profile_pic": "src/assets/profiledp2.jpg"
+      },
+      "image": "src/assets/beachsunset.jpg",
+      "caption": "Relaxing sunset on the beach 🌅",
+      "likes": 250,
+      "comments": [
+        {
+          "user": "travel_guru",
+          "comment": "Stunning view!"
+        },
+        {
+          "user": "ocean_lover",
+          "comment": "Wish I was there!"
+        }
+      ],
+      "timestamp": "2025-11-20T18:30:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 203,
+        "username": "foodie_raj",
+        "profile_pic": "src/assets/profiledp4.jpg"
+      },
+      "image": "src/assets/pizza.jpg",
+      "caption": "Cheesy pizza night 🍕❤",
+      "likes": 180,
+      "comments": [
+        {
+          "user": "pizza_addict",
+          "comment": "Looks delicious!"
+        },
+        {
+          "user": "home_chef",
+          "comment": "Homemade or restaurant?"
+        }
+      ],
+      "timestamp": "2025-11-21T14:45:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 204,
+        "username": "airlovers",
+        "profile_pic": "src/assets/profiledp3.jpg"
+      },
+      "image": "src/assets/airways.jpg",
+      "caption": "Exploring the countries🏔",
+      "likes": 410,
+      "comments": [
+        {
+          "user": "travel_buddy",
+          "comment": "Motivating!"
+        },
+        {
+          "user": "travel_life",
+          "comment": "Great start to the travel🔥"
+        }
+      ],
+      "timestamp": "2025-11-22T06:00:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "jane_doe",
+    "profile_pic": "src/assets/profiledp2.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "201",
+      "username": "john_travels",
+      "profile_pic": "src/assets/profiledp1.jpg"
+    },
+    {
+      "id": "202",
+      "username": "jane_doe",
+      "profile_pic": "src/assets/profiledp2.jpg"
+    },
+    {
+      "id": "203",
+      "username": "foodie_raj",
+      "profile_pic": "src/assets/profiledp4.jpg"
+    },
+    {
+      "id": "204",
+      "username": "airlovers",
+      "profile_pic": "src/assets/profiledp3.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 201,
+        "username": "john_travels",
+        "profile_pic": "src/assets/profiledp1.jpg"
+      },
+      "image": "src/assets/s1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 202,
+        "username": "jane_doe",
+        "profile_pic": "src/assets/profiledp2.jpg"
+      },
+      "image": "src/assets/s2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 203,
+        "username": "foodie_raj",
+        "profile_pic": "src/assets/profiledp4.jpg"
+      },
+      "image": "src/assets/s3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 204,
+        "username": "airlovers",
+        "profile_pic": "src/assets/profiledp3.jpg"
+      },
+      "image": "src/assets/s4.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "john_travels",
+      "profile_pic": "src/assets/profiledp1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "jane_doe",
+      "profile_pic": "src/assets/profiledp2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "foodie_raj",
+      "profile_pic": "src/assets/profiledp4.jpg"
+    },
+    {
+      "id": "4",
+      "username": "airlovers",
+      "profile_pic": "src/assets/profiledp3.jpg"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "202",
+      "username": "jane_doe"
+    },
+    {
+      "id": "203",
+      "username": "foodie_raj"
+    },
+    {
+      "id": "204",
+      "username": "airlovers"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "202",
+      "username": "jane_doe"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "202",
+      "username": "jane_doe"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "202",
+      "username": "jane_doe"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    },
+    {
+      "id": "202",
+      "username": "jane_doe"
+    },
+    {
+      "id": "201",
+      "username": "john_travels"
+    }
+  ]
+}
